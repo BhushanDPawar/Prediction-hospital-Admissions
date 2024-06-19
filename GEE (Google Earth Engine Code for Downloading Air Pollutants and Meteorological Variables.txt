@@ -1,0 +1,21 @@
+GEE (Google Earth Engine Code for Downloading the Pollutants and Meteorological Parameters from Satellite)
+
+1) PM2.5 - https://code.earthengine.google.com/ff595a3697dd658683d4055166f50b1c
+
+2) PM10 - https://code.earthengine.google.com/8307870d06267ea1feb23e27c05578af
+
+3) Surface Pressure - https://code.earthengine.google.com/b50fa8b559b33a76759c5f03a9348cb5
+
+4) Temperature - https://code.earthengine.google.com/1147f6edce38a9c8cccb9f83ac0df4e0
+
+5) Wind Speed - https://code.earthengine.google.com/2b99bdf27f853a72f449a14f9feea942
+
+6) CO-  https://code.earthengine.google.com/9660c6d741f00f0b8df962d074a06719
+
+7) NO2- https://code.earthengine.google.com/8bc298c8659efe7b32f7442f93a03512
+
+8) O3-  https://code.earthengine.google.com/b975468f7e1b1b98ab3b8fbc8d4d7aaf
+
+9) SO2- https://code.earthengine.google.com/0fa648707adf8126839bfe4a5df4bf4d
+
+10) Humidity -https://code.earthengine.google.com/90b17c6a127332ccd4ab48728993e3f6
